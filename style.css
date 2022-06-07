@@ -379,10 +379,16 @@ body {
   margin: 10px;
 }
 
+.footer-content {
+  display: flex;
+  justify-content: center;
+}
+
 .footer {
   padding: 20px 10px;
 }
 
 .footer-text {
   padding: 10px 12px;
+  text-align: center;
 }
